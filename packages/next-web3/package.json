@@ -1,6 +1,6 @@
 {
   "name": "next-web3",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "web3 components and utilities for next.js",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,5 @@
   "bugs": {
     "url": "https://github.com/ian/next-web3/issues"
   },
-  "homepage": "https://github.com/ian/next-web3#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/ian/next-web3#readme"
 }
