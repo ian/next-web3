@@ -1,0 +1,25 @@
+{
+  "name": "next-web3",
+  "version": "0.0.0",
+  "description": "web3 components and utilities for next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian/next-web3.git"
+  },
+  "keywords": [
+    "next",
+    "nextjs",
+    "web3",
+    "react"
+  ],
+  "author": "Ian Hunter <ian@01.studio>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ian/next-web3/issues"
+  },
+  "homepage": "https://github.com/ian/next-web3#readme"
+}
