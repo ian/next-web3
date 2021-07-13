@@ -22,7 +22,5 @@
     "url": "https://github.com/ian/next-web3/issues"
   },
   "homepage": "https://github.com/ian/next-web3#readme",
-  "devDependencies": {
-    "lerna": "^4.0.0"
-  }
+  "devDependencies": {}
 }
